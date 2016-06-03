@@ -1,1 +1,1 @@
-# I'm learning Ruby by goring through codecademy
+# I'm learning Ruby by going through codecademy
