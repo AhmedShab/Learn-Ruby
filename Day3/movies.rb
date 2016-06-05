@@ -34,7 +34,7 @@ when "display"
 when "delete"
   title = gets.chomp
   if !movies[title.to_sym].nil?
-    movies.delete(title)
+    movies.delete(title.to_sym)
   else
     puts "the movie is not in your list to delete"
   end
