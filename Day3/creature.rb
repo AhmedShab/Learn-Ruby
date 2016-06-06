@@ -15,7 +15,3 @@ class Dragon < Creature
     "Breathes fire!"
   end
 end
-
-myDragon = Dragon
-
-puts " " + myDragon.fight
